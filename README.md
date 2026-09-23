@@ -1,5 +1,6 @@
+<img src = "https://github.com/ahad9476/ahad9476/blob/main/WhatsApp%20Image%202026-09-24%20at%2012.17.48%20AM.jpeg">
 <h1 align="center">Hi 👋, I'm Ahad Islam</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahad9476" alt="ahad9476" /></a> </p>
 
