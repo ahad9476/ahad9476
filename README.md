@@ -38,8 +38,51 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
     TypeScript
   </li>
+    <li>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40">
+    React
+  </li>
 
-    
+
+ <h2>Backend & Databases<h2/>   
+  <li>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
+    Java
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
+    Node.js
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
+    MySQL
+  </li>
+    <li>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">
+    MongoDB
+  </li>
+
+ <h2>Design & Development Tools<h2/>   
+  <li>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40">
+    Figma
+  </li>
+    <li>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40">
+    Photoshop
+  </li>
+    <li>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40">
+    Postman
+  </li>
+    <li>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
+    Git
+  </li>
+
+   
+   
+   <h2>Systems & Embedded Programming<h2/>
   <li>
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40">
     Arduino
@@ -49,44 +92,14 @@
     C
   </li>
 
-  <li>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40">
-    Figma
-  </li>
-  <li>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
-    Git
-  </li>
 
-  <li>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
-    Java
-  </li>
 
-  <li>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">
-    MongoDB
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
-    MySQL
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
-    Node.js
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40">
-    Photoshop
-  </li>
-  <li>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40">
-    Postman
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40">
-    React
-  </li>
+
+
+
+
+
+
 
 </ul>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahad9476&" alt="ahad9476" /></p>
